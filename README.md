@@ -1,1 +1,1 @@
-# manib
+# mani
